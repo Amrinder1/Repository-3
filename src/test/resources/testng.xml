@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="HIPAAT Privacy eSuite v5.4 Test Suite">
+   <listeners>
+      <listener class-name="com.hipaat.pes.test.utilities.Reporting"/>
+   </listeners>
+   <test name="TestCase1">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_001Test"/>
+      </classes>
+   </test>
+    <test name="TestCase2">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_002Test"/>
+      </classes>
+   </test>
+   <test name="TestCase3">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_003Test"/>
+      </classes>
+   </test>
+   <test name="TestCase5">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_005Test"/>
+      </classes>
+   </test>
+   <test name="TestCase6">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_006Test"/>
+      </classes>
+   </test>
+   <test name="TestCase7">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_007Test"/>
+      </classes>
+   </test>
+   <test name="TestCase8">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_008Test"/>
+      </classes>
+   </test>
+   <test name="TestCase9">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_009Test"/>
+      </classes>
+   </test>
+   <test name="TestCase10">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_010Test"/>
+      </classes>
+   </test>
+   <test name="TestCase11">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_011Test"/>
+      </classes>
+   </test>
+   <test name="TestCase12">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_012Test"/>
+      </classes>
+   </test>
+   <test name="TestCase13">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_013Test"/>
+      </classes>
+   </test>
+   <test name="TestCase14">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_014Test"/>
+      </classes>
+   </test>
+   <test name="TestCase15">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_015Test"/>
+      </classes>
+   </test>
+   <test name="TestCase16">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_016Test"/>
+      </classes>
+   </test>
+   <test name="TestCase17">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_017Test"/>
+      </classes>
+   </test>
+   <test name="TestCase19">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_019Test"/>
+      </classes>
+   </test>
+   <test name="TestCase20">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_020Test"/>
+      </classes>
+   </test>
+   <test name="TestCase21">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_021Test"/>
+      </classes>
+   </test>
+   <test name="TestCase22">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_022Test"/>
+      </classes>
+   </test>
+   <test name="TestCase27">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_027Test"/>
+      </classes>
+   </test>
+   <test name="TestCase28">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_028Test"/>
+      </classes>
+   </test>
+   <test name="TestCase29">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_029Test"/>
+      </classes>
+   </test>
+   <test name="TestCase30">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_030Test"/>
+      </classes>
+   </test>
+   <test name="TestCase32">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_032Test"/>
+      </classes>
+   </test>
+<test name="TestCase33">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_033Test"/>
+      </classes>
+   </test>
+<test name="TestCase34">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_034Test"/>
+      </classes>
+   </test>
+<test name="TestCase35">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_035Test"/>
+      </classes>
+   </test>
+<test name="TestCase36">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_036Test"/>
+      </classes>
+   </test>
+<test name="TestCase37">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_037Test"/>
+      </classes>
+   </test>
+<test name="TestCase38">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_038Test"/>
+      </classes>
+   </test>
+   <test name="TestCase40">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_040Test"/>
+      </classes>
+   </test>
+<test name="TestCase41">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_041Test"/>
+      </classes>
+   </test>
+<test name="TestCase42">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_042Test"/>
+      </classes>
+   </test>
+<test name="TestCase43">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_043Test"/>
+      </classes>
+   </test>
+   <test name="TestCase44">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_044Test"/>
+      </classes>
+   </test>
+   <test name="TestCase49">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_049Test"/>
+      </classes>
+   </test>
+<test name="TestCase50">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_050Test"/>
+      </classes>
+   </test>
+   <test name="TestCase53">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_053Test"/>
+      </classes>
+   </test>
+<test name="TestCase54">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_054Test"/>
+      </classes>
+   </test>
+   <test name="TestCase56">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_056Test"/>
+      </classes>
+   </test>
+<test name="TestCase57">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_057Test"/>
+      </classes>
+   </test>
+<test name="TestCase58">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_058Test"/>
+      </classes>
+   </test>
+   <test name="TestCase059">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_060Test"/>
+      </classes>
+   </test>
+   <test name="TestCase060">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_060Test"/>
+      </classes>
+   </test>
+   <test name="TestCase65">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_065Test"/>
+      </classes>
+   </test>
+   <test name="TestCase68">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_068Test"/>
+      </classes>
+   </test>
+   <test name="TestCase072">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_072Test"/>
+      </classes>
+   </test>
+   <test name="TestCase101">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_101Test"/>
+      </classes>
+   </test>
+   <test name="TestCase102">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_102Test"/>
+      </classes>
+   </test>
+   <test name="TestCase146">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_146Test"/>
+      </classes>
+   </test>
+   <test name="TestCase151">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_151Test"/>
+      </classes>
+   </test>
+   <test name="TestCase217">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_217Test"/>
+      </classes>
+   </test>
+   <test name="TestCase219">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_219Test"/>
+      </classes>
+   </test>
+   <test name="TestCase220">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_220Test"/>
+      </classes>
+   </test>
+   <test name="TestCase221">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_221Test"/>
+      </classes>
+   </test>
+   <test name="TestCase222">
+      <classes>
+         <class name="com.hipaat.pes.test.maintest.PE_TC_222Test"/>
+      </classes>
+   </test> 
+      
+</suite>

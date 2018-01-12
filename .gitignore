@@ -1,0 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+test-output/
+target/
+.idea/
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+
+/html//form[@id='inactivePoliciesResult']/div[@class='newBtnPosition']/div/input[@role='button']
+
+.newBtnPosition div:nth-of-type(1) [type]
+/bin/
